@@ -1,5 +1,5 @@
 ﻿## PROJECTS
-* [RACH Demo](#rach)
+* [RACH](#rach)
 * [MeetPoint](#meetpoint)
 * [Bompoe](#bompoe)
 
