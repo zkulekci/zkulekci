@@ -1,6 +1,6 @@
 ﻿## PROJECTS
-* [RACH Demo](#general-info)
-* [MeetPoint](#technologies)
+* [RACH Demo](#rach demo)
+* [MeetPoint](#meetpoint)
 * [Bompoe](#bompoe)
 
 
