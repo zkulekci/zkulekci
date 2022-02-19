@@ -1,4 +1,4 @@
-﻿## PROJECTS
+﻿## SOME PERSONAL PROJECTS
 * [RACH](#rach)
 * [MeetPoint](#meetpoint)
 * [Bompoe](#bompoe)
@@ -26,4 +26,4 @@ https://zkulekci.github.io/meetpoint/
 ## Bompoe
 It is a Bomberman-like game designed and implemented.
 
-https://zkulekci.github.io/meetpoint/
+https://champker.itch.io/bompoe
