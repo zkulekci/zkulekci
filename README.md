@@ -1,10 +1,10 @@
 ﻿## PROJECTS
-* [RACH Demo](#rach_demo)
+* [RACH Demo](#rach)
 * [MeetPoint](#meetpoint)
 * [Bompoe](#bompoe)
 
 
-## RACH Demo
+## RACH
 RACH: Recognition of Alphanumeric Characters Recognition
 
 This is a computer vision project that has two parts. In the first 
